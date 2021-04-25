@@ -1,2 +1,2 @@
 # TinyCNC
-Kleine CNC Fräse für Aluminium
+Kleine CNC-Fräse hauptsächlich aus 3D-Druckteilen
