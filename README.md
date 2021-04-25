@@ -1,2 +1,2 @@
 # TinyCNC
-Kleine CNC-Fräse hauptsächlich aus 3D-Druckteilen
+Kleine CNC-Fräse aus dem 3D-Drucker
